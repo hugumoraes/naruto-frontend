@@ -23,7 +23,8 @@ body, input, button {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-buton {
+button {
   cursor: pointer;
 }
+
 `;
